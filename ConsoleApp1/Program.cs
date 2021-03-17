@@ -9,6 +9,7 @@ namespace ConsoleApp1
             Console.WriteLine("Geben Sie einen Namen ein:");
             string name = Console.ReadLine();
             Console.WriteLine("Hallo, " + name + ", du bist ein Spast!");
+            Console.WriteLine("NEIN");
         }
     }
 }
