@@ -6,10 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Geben Sie einen Namen ein:");
-            string name = Console.ReadLine();
-            Console.WriteLine("Hallo, " + name + ", du bist ein Vollidiot!");
-            Console.WriteLine("JAAAAAAAA");
+            Console.Write("Hello World");
         }
     }
 }
